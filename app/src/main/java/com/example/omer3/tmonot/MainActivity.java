@@ -10,6 +10,7 @@ import android.widget.ImageView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
+    int j;
     ImageView iv;
     ImageButton btn;
     int y;
